@@ -321,7 +321,7 @@ hr {
 	width:100%;
   min-height: 100%;
 	position:relative;
-	background: url(../images/background/Background-01.jpg) no-repeat;
+	background: url(/images/background/Background-01.jpg) no-repeat;
   --webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
