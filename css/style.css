@@ -16,7 +16,7 @@ html {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    margin: 0 0 30px;
+    margin: 0 0 10px;
     text-transform: uppercase;
     font-family: Montserrat,sans-serif;
     font-weight: 700;
@@ -303,8 +303,8 @@ hr {
 }
 
 
-.bg-dark {
-	background: #575757;
+.bg-light {
+	background: #FCFCFC;
 }
 
 /* --- section color var --- */
@@ -321,7 +321,7 @@ hr {
 	width:100%;
   min-height: 100%;
 	position:relative;
-	background: url(/images/Background/Background-01.jpg) no-repeat;
+	background: url(images/Background/Background-01.jpg) no-repeat;
   --webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -451,9 +451,9 @@ hr {
 
 .imageFrame {
   overflow:hidden;
-  height: 195px;
-  margin: 30px auto;
-  float: left;
+  height: 246px;
+  width: 360px;
+  margin: 20px auto;
 }
 
 .imageFrame img{
